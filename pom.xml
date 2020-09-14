@@ -308,7 +308,7 @@
         <!-- these should only be SNAPSHOTs when no release is available -->
         <proctor.version>1.1.38</proctor.version>
 
-        <ant.version>1.8.2</ant.version>
+        <ant.version>1.9.15</ant.version>
         <commons-cli.version>1.1</commons-cli.version>
         <commons-io.version>1.4</commons-io.version>
         <commons-lang.version>2.4</commons-lang.version>
